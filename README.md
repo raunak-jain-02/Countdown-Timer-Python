@@ -28,7 +28,7 @@ This project is a simple yet functional countdown timer implemented in Python. I
 <b>📝 How to Use</b> <br>
 1. Clone the repository:--  git clone https://github.com/your-username/Countdown-Timer-Python.git <br>
 2. Navigate To The Directory:--  cd Countdown-Timer-Python <br>
-3. Run The Script:-- python countdown_timer.py
+3. Run The Script:-- python timer.py
 
 ---
 
